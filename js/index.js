@@ -6,7 +6,7 @@ navToggle.addEventListener('click', () => {
     /* apa tindakan akan kita buat kat var tu */
 
     document.body.classList.toggle('nav-open');
-    /* bila tindakan dibuat, css ni akan aktif */
+    /* bila tindakan dibuat, css ni akan aktif */ //sdfkjsdk
 });
 
 navLinks.forEach(link => {
